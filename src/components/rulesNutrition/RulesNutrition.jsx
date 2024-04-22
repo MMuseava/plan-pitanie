@@ -12,10 +12,10 @@ export default function BasicExample() {
 				gridAutoRows: "minmax(100px, auto)",
 			}}
 		>
-			<Card style={{ width: "18rem", margin: "10px" }}>
+			<Card className="w-100">
 				<Card.Img
 					variant="top"
-					src="https://i.pinimg.com/474x/3d/c9/ef/3dc9ef5fd7d7df0bfd41551c07aef271.jpg"
+					src="https://i.pinimg.com/564x/2f/7b/63/2f7b63f0fcb13d53080e311b36d1359c.jpg"
 					style={{ width: "100%", height: "400px" }}
 				/>
 				<Card.Body>
@@ -38,7 +38,7 @@ export default function BasicExample() {
 				</Card.Body>
 			</Card>
 
-			<Card style={{ width: "18rem", margin: "10px" }}>
+			<Card style={{ width: "23rem", margin: "10px" }}>
 				<Card.Img
 					variant="top"
 					src="https://i.pinimg.com/564x/df/f6/8d/dff68dd745e32bfdf19f7011aed859ea.jpg"
@@ -57,7 +57,7 @@ export default function BasicExample() {
 					<Button variant="primary">Перейти куда-нибудь</Button>
 				</Card.Body>
 			</Card>
-			<Card style={{ width: "18rem", margin: "10px" }}>
+			<Card style={{ width: "23rem", margin: "10px" }}>
 				<Card.Img
 					variant="top"
 					src="https://i.pinimg.com/564x/97/68/eb/9768eb97127b23e78a964d1a68f79848.jpg"
@@ -76,7 +76,7 @@ export default function BasicExample() {
 					<Button variant="primary">Перейти куда-нибудь</Button>
 				</Card.Body>
 			</Card>
-			<Card style={{ width: "18rem", margin: "10px" }}>
+			<Card style={{ width: "23rem", margin: "10px" }}>
 				<Card.Img
 					variant="top"
 					src="https://i.pinimg.com/564x/d5/5f/dd/d55fdd459a3d1c2fb56ca0a34622c357.jpg"
@@ -95,7 +95,7 @@ export default function BasicExample() {
 					<Button variant="primary">Перейти куда-нибудь</Button>
 				</Card.Body>
 			</Card>
-			<Card style={{ width: "18rem", margin: "10px" }}>
+			<Card style={{ width: "23rem", margin: "10px" }}>
 				<Card.Img
 					variant="top"
 					src="https://i.pinimg.com/736x/9a/e0/d6/9ae0d6121968435cf909bdf06bd7ae17.jpg"
@@ -115,7 +115,7 @@ export default function BasicExample() {
 					<Button variant="primary">Перейти куда-нибудь</Button>
 				</Card.Body>
 			</Card>
-			<Card style={{ width: "18rem", margin: "10px" }}>
+			<Card style={{ width: "23rem", margin: "10px" }}>
 				<Card.Img
 					variant="top"
 					src="https://i.pinimg.com/564x/5c/7a/aa/5c7aaa05329b3697df2f37c5408e7a01.jpg"
@@ -134,7 +134,7 @@ export default function BasicExample() {
 					<Button variant="primary">Перейти куда-нибудь</Button>
 				</Card.Body>
 			</Card>
-			<Card style={{ width: "18rem", margin: "10px" }}>
+			<Card style={{ width: "23rem", margin: "10px" }}>
 				<Card.Img
 					variant="top"
 					src="https://i.pinimg.com/736x/a8/33/22/a833223838da9bf2c128c7d5517b6c05.jpg"
@@ -152,7 +152,7 @@ export default function BasicExample() {
 					<Button variant="primary">Перейти куда-нибудь</Button>
 				</Card.Body>
 			</Card>
-			<Card style={{ width: "18rem", margin: "10px" }}>
+			<Card style={{ width: "23rem", margin: "10px" }}>
 				<Card.Img
 					variant="top"
 					src="https://i.pinimg.com/564x/81/77/da/8177da759bb9a3b47ea2f54361c87a38.jpg"
@@ -171,7 +171,7 @@ export default function BasicExample() {
 					<Button variant="primary">Перейти куда-нибудь</Button>
 				</Card.Body>
 			</Card>
-			<Card style={{ width: "18rem", margin: "10px" }}>
+			<Card style={{ width: "23rem", margin: "10px" }}>
 				<Card.Img
 					variant="top"
 					src="https://i.pinimg.com/564x/50/c9/e6/50c9e60326ee629a4ccc9c118d476836.jpg"
@@ -191,7 +191,7 @@ export default function BasicExample() {
 					<Button variant="primary">Перейти куда-нибудь</Button>
 				</Card.Body>
 			</Card>
-			<Card style={{ width: "18rem", margin: "10px" }}>
+			<Card style={{ width: "23rem", margin: "10px" }}>
 				<Card.Img
 					variant="top"
 					src="https://i.pinimg.com/564x/cc/b2/ea/ccb2eae8ccd382cd8e4694ec2a2f3a0b.jpg"
@@ -213,7 +213,7 @@ export default function BasicExample() {
 					<Button variant="primary">Перейти куда-нибудь</Button>
 				</Card.Body>
 			</Card>
-			<Card style={{ width: "18rem", margin: "10px" }}>
+			<Card style={{ width: "23rem", margin: "10px" }}>
 				<Card.Img
 					variant="top"
 					src="https://i.pinimg.com/564x/b5/2f/82/b52f8297330614d52815eaad7f70317f.jpg"
@@ -231,7 +231,7 @@ export default function BasicExample() {
 					<Button variant="primary">Перейти куда-нибудь</Button>
 				</Card.Body>
 			</Card>
-			<Card style={{ width: "18rem", margin: "10px" }}>
+			<Card style={{ width: "23rem", margin: "10px" }}>
 				<Card.Img
 					variant="top"
 					src="https://i.pinimg.com/564x/36/df/40/36df40906bdd42800ab2f6cc5a311fe2.jpg"
